@@ -16,8 +16,8 @@
 # anagrams('racer', ['crazer', 'carer', 'racar', 'caers', 'racer']) => ['carer', 'racer']
 #
 # anagrams('laser', ['lazing', 'lazy',  'lacer']) => []
-
-#code
+#
+#Code
 
 def anagrams(word, words):
     fin = []

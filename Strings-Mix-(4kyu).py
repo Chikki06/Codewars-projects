@@ -32,6 +32,7 @@
 # mix(s1, s2) --> "=:aaaaaa/2:eeeee/=:fffff/1:tt/2:rr/=:hh"
 #
 #Code
+
 import string
 def mix(s1, s2):
     freq_s1 = freq(s1)
